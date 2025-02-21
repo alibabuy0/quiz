@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang='uk'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <script src='https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js'></script>
+    <title></title>
+</head>
+<body>
+<div class = "container start">
+    <div class = "title">тест</div>
+    <div class = "start_button">Почати</div>
+</div>
+<div class = "container block">   
+    <div class = "question">23-7</div>
+    <div class = "answers">
+        <div class = "answer">2</div>
+        <div class = "answer">3</div>
+        <div class = "answer">16</div>
+        <div class = "answer">20</div>
+        <div class = "answer">19</div>
+    </div>
+</div>
+
+        
+
+</body>
+</html>
